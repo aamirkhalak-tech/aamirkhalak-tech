@@ -13,3 +13,14 @@ I bring strong leadership, people management, and training experience from the i
 
 📫 Email: amirkhalak@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/aamir-khalak-1bb89516
+
+---
+
+## 📘 Learning Log (Daily/Weekly Progress)
+
+**December 2025**
+- Started my GitHub journey  
+- Set up my professional profile  
+- Beginning structured learning in Cybersecurity, AWS Cloud, Linux (RHCSA) and Python
+
+*(I will keep updating this log as I learn and build projects.)*
