@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Aamir Khalak
 
-<!--
-**aamirkhalak-tech/aamirkhalak-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ex-Insurance Business Leader → Aspiring Cybersecurity & Cloud Security Engineer**
 
-Here are some ideas to get you started:
+Currently transitioning into the tech world with a focus on:
+- 🔐 Cybersecurity & Ethical Hacking  
+- ☁️ AWS Cloud  
+- 🐧 Linux (RHCSA)  
+- 🐍 Python for automation  
+- 🌐 Networking (CCNA & CCIE Security – Written)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I bring strong leadership, people management, and training experience from the insurance industry, now applying those strengths to security, cloud, and automation.
+
+📫 Email: amirkhalak@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/aamir-khalak-1bb89516
