@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aamir Khalak
 
-**Ex-Insurance Business Leader → Aspiring Cybersecurity & Cloud Security Engineer**
+**Network Security | Cloud Security | Cybersecurity | Ex-Reliance Jio Network Engineer | CCNA | CCIE Security Written Qualified**
 
 Currently transitioning into the tech world with a focus on:
 - 🔐 Cybersecurity & Ethical Hacking  
